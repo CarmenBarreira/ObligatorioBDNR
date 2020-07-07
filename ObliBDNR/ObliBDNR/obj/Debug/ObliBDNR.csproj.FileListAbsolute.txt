@@ -1,0 +1,340 @@
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\ObliBDNR.dll.config
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\ObliBDNR.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\ObliBDNR.pdb
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.Claims.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\netstandard.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.AppContext.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Collections.Concurrent.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Collections.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Collections.NonGeneric.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Collections.Specialized.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.ComponentModel.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.ComponentModel.Primitives.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Console.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Data.Common.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Diagnostics.Contracts.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Diagnostics.Debug.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Diagnostics.Process.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Diagnostics.Tools.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Diagnostics.Tracing.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Drawing.Primitives.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Dynamic.Runtime.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Globalization.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Globalization.Extensions.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.IsolatedStorage.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.Pipes.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Linq.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Linq.Expressions.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Linq.Parallel.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Linq.Queryable.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.Http.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.NameResolution.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.NetworkInformation.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.Ping.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.Primitives.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.Requests.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.Security.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.WebSockets.Client.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.WebSockets.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.ObjectModel.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Reflection.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Reflection.Extensions.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Reflection.Primitives.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Resources.Reader.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Resources.ResourceManager.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Resources.Writer.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.Extensions.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.Handles.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.InteropServices.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.Numerics.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Security.Claims.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Security.Principal.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Security.SecureString.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Text.Encoding.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Text.RegularExpressions.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Threading.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Threading.Overlapped.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Threading.Tasks.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Threading.Thread.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Threading.ThreadPool.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Threading.Timer.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Xml.XDocument.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Xml.XmlSerializer.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Antlr3.Runtime.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Neo4j.Driver.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Newtonsoft.Json.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Pipelines.Sockets.Unofficial.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Sockets.Plugin.Abstractions.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Sockets.Plugin.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\StackExchange.Redis.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Buffers.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.Pipelines.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Memory.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.Http.Formatting.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Numerics.Vectors.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Threading.Channels.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Cors.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Helpers.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Http.Cors.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Http.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Http.WebHost.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Mvc.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Optimization.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Razor.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.WebPages.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\WebGrease.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Neo4j.Driver.pdb
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Neo4j.Driver.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Pipelines.Sockets.Unofficial.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Sockets.Plugin.pdb
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Sockets.Plugin.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Sockets.Plugin.Abstractions.pdb
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Sockets.Plugin.Abstractions.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\StackExchange.Redis.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Buffers.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.IO.Pipelines.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Memory.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Numerics.Vectors.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Threading.Channels.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.ValueTuple.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Http.Cors.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Newtonsoft.Json.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Net.Http.Formatting.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Helpers.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Http.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Http.WebHost.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Mvc.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Optimization.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.Razor.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.WebPages.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Antlr3.Runtime.pdb
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\obj\Debug\ObliBDNR.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\obj\Debug\ObliBDNR.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\obj\Debug\ObliBDNR.csproj.CopyComplete
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\obj\Debug\ObliBDNR.dll
+C:\Users\Usuario\Desktop\Fuckultad\BDNR\Obli\ObliBDNR\ObliBDNR\obj\Debug\ObliBDNR.pdb
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\ObliBDNR.dll.config
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\ObliBDNR.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\ObliBDNR.pdb
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\csc.exe
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\csc.exe.config
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\csc.rsp
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\csi.exe
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\csi.exe.config
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\csi.rsp
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.AppContext.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Console.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.IO.Compression.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.Claims.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.ValueTuple.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\vbc.exe
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\vbc.exe.config
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\vbc.rsp
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\VBCSCompiler.exe
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Antlr3.Runtime.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Neo4j.Driver.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Newtonsoft.Json.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Pipelines.Sockets.Unofficial.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Sockets.Plugin.Abstractions.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Sockets.Plugin.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\StackExchange.Redis.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Buffers.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Diagnostics.PerformanceCounter.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.IO.Compression.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.IO.Pipelines.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Memory.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Net.Http.Formatting.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Net.NameResolution.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Net.Security.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Net.Sockets.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Numerics.Vectors.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Threading.Channels.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Threading.Thread.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.ValueTuple.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Cors.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Helpers.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Http.Cors.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Http.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Http.WebHost.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Mvc.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Optimization.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Razor.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.WebPages.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.WebPages.Razor.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\WebGrease.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Neo4j.Driver.pdb
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Neo4j.Driver.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Pipelines.Sockets.Unofficial.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Sockets.Plugin.pdb
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Sockets.Plugin.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Sockets.Plugin.Abstractions.pdb
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Sockets.Plugin.Abstractions.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\StackExchange.Redis.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Buffers.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Diagnostics.PerformanceCounter.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.IO.Pipelines.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Memory.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Numerics.Vectors.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Threading.Channels.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.ValueTuple.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Http.Cors.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Newtonsoft.Json.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Net.Http.Formatting.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Helpers.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Http.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Http.WebHost.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Mvc.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Optimization.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.Razor.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.WebPages.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\System.Web.WebPages.Razor.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Antlr3.Runtime.pdb
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\obj\Debug\ObliBDNR.csprojResolveAssemblyReference.cache
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\obj\Debug\ObliBDNR.dll
+C:\Users\Carmen\Desktop\BD no relacional\Obligatorio\ObliBDNR\ObliBDNR\obj\Debug\ObliBDNR.pdb

@@ -1,0 +1,321 @@
+<!DOCTYPE html>
+<html lang="es">
+	<head> 
+        <meta charset="utf-8"> 
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" href="libs/boostrap/bootstrap.min.css">
+		<script src="libs/jquery/jquery.min.js"></script>
+		<script src="libs/popper/popper.min.js"></script>
+		<script src="libs/boostrap/bootstrap.min.js"></script>
+        <title>Obligatorio 2 -- BDNR</title> 
+		<link rel="stylesheet" href="css/estilos.css">
+		<script src="js/funciones.js"></script>
+		<link rel="stylesheet" href="libs/boostrap/4.3.1/bootstrap.min.css">
+	  	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous">
+	  	<script src="libs/boostrap/4.3.1/bootstrap.min.js"></script>
+
+	</head>
+	
+	
+	<div class="general">
+		<h1 class="text-center" >
+			<img src="img/github.png" class="rounded-circle logoGitHub" align="left" alt="logo GitHub">
+			Obligatorio 2 - BDNR</h1>
+			<br>
+	</div>
+
+	<div class="container-fluid">
+	    <div class="row">
+	        <nav class="col-2 collapse show fondoMenu pt-2 min-vh-100" id="sidebar">
+	            <ul class="nav flex-column flex-nowrap overflow-hidden">
+	            	<li class="nav-item" id="home"><a class="nav-link opcionesMenu" href="#"><i class="fas fa-home"></i> <span class="d-none d-sm-inline"><b>Home</b></span></a></li>
+
+	               <li class="nav-item" id="feedAcciones"><a class="nav-link opcionesMenu" href="#"><i class="fas fa-user-alt"></i> <span class="d-none d-sm-inline"><b>Feed de acciones</b></span></a></li>
+	                
+	                <li class="nav-item" id="navegacionCodigo"><a class="nav-link opcionesMenu" href="#"><i class="far fa-file-code"></i> <span class="d-none d-sm-inline"><b>Navegación de código</b></span></a></li>
+	                
+	            </ul>
+	        </nav>
+	        <div class="col pt-2" id="divhome">
+				<br>
+				<h5>Docente: Juan Gabito</h5>
+				<br>
+				<h6>Año 2020</h6>
+				<br>
+				<p>Para el obligatorio seleccionamos los subsistemas de Feed de Acciones y Navegación de Código que se encuentran para probar en el menú de la izquierda</p>
+				<br>
+			</div>
+
+			<div class="col pt-2" id="divFeedAcciones">
+				<div class="paginaGeneral">
+					<div>
+						<h3>Feed de acciones</h3>
+						<br>
+						<p class="textoLetraObli"> Cada usuario posee un feed que visualiza cuando entra a github.com. En ese feed ve las acciones que se han hecho sobre repositorios propios, que sigue o que ha marcado como favoritos. Entre esas acciones puede ver nuevos commits, aperturas de issues, nuevos pull request, versiones que han sido creadas, nuevos Gists, etc.
+						El feed es por usuario, se deberá obtener en el menor tiempo posible y las acciones se listan ordenadas cronológicamente de las más recientes a las más viejas.</p>
+					</div>
+					<br>
+
+					<div id = "divOk"></div>
+					<div id = "divError"></div>
+
+					<div class="form-group"> <!-- Ingresa usuario -->
+						<label for="username"> Ingrese su usuario de GitHub </label>
+						<input type="text" class="anchoInputs" id="username" placeholder="username">
+					</div>
+
+					<div> <!-- botones -->
+						<button class="botones btn-md" id="btnInsertarAccion">							
+						<i class="fas fa-plus-circle"></i> Insertar nueva acción
+						</button>
+
+						<button class="botones btn-md" id="btnConsultarAcciones">
+							<i class="fas fa-search"></i> Consultar acciones
+						</button>
+					</div>
+
+					<br>
+
+					<div id="DivInsertarAccion"> 
+						<div class="form-group"> 
+							<label for="nombrerepo"> Ingrese el nombre del repositorio: </label>
+							<input type="text" class="anchoInputs" id="nombrerepo" placeholder="nombre repositorio" required>
+						</div>
+
+						<div class="form-group"> 
+							<label for="rutarepo"> Ingrese la ruta del repositorio: </label>
+							<input type="text" class="anchoInputs" id="rutarepo" placeholder="ruta repositorio" required>
+						</div>
+
+						<div class="form-group"> 
+							<label for="comboTipoRepo">Seleccione el tipo de repositorio:</label>
+						      <select class="anchoInputs" id="comboTipoRepo">
+						        <option name= "tipoRepoCombo">Favorito</option>
+						        <option name= "tipoRepoCombo">Propio</option>
+						        <option name= "tipoRepoCombo">Seguido</option>
+						      </select>
+						</div>
+
+						<div class="form-group"> 
+							<label for="tipoAccion"> Ingrese el tipo de accion: </label>
+							<input type="text" class="anchoInputs" id="tipoAccion" placeholder="tipo de accion" required>
+						</div>
+
+						<div class="form-group"> 
+							<label for="detalleaccion"> Detalle: </label>
+							<textarea  type="text" class="anchoInputs" id="detalleaccion" placeholder="informacion de la accion" rows="6" required></textarea>
+						</div>
+
+						<br>
+
+						<button class="botones btn-md" id="btnAgregarAccion">							
+						<i class="fa fa-plus"></i> Agregar
+						</button>
+
+					</div>
+
+					<div id="DivConsultarAcciones"> 
+						<table class="table table-hover" id = "tablaAcciones">
+						    <thead>
+						      <tr class="tituloTabla">
+						        <th class="bordesTabla">Nombre Repositorio</th>
+						        <th class="bordesTabla">Ruta Repositorio</th>
+						        <th class="bordesTabla">Tipo Repositorio</th>
+						        <th class="bordesTabla">Tipo Acción</th>
+						        <th class="bordesTabla">Fecha</th>
+						        <th class="bordesTabla">Detalle</th>
+						      </tr>
+						    </thead>
+						    <tbody>
+						    </tbody>
+						  </table>
+					</div>
+
+				</div>
+			</div>
+
+			<div class="col pt-2" id = "divGestionCodigo">
+				<h3>Navegación de código</h3>
+				<br>
+				<p class="textoLetraObli">La navegación de código permite explorar el código que existe dentro de un repositorio. Cada repositorio es analizado para entender las relaciones existentes en el código de forma tal que un usuario puede navegar al lugar donde una función es definida o a los distintos lugares donde dicha función es invocada.
+				Se busca que almacenar y navegar esas relaciones sea lo más natural posible.
+				</p>
+
+				<div id="visualization"></div>
+				<div id = "divOkG"></div>
+				<div id = "divErrorG"></div>
+
+				<div> <!-- botones -->
+					<button class="botones btn-md" id="btnInsertar">							
+						<i class="fas fa-plus-circle"></i> Insertar nuevos datos
+					</button>
+
+					<button class="botones btn-md" id="btnConsultarCodigoInvocaciones">
+						<i class="fas fa-search"></i> Consultar invocaciones
+					</button>
+
+					<button class="botones btn-md" id="btnConsultarCodigoIrDefinicion">
+						<i class="fas fa-share"></i> Ir a la definición (F12)
+					</button>
+					
+				</div>
+				<br>
+				<br>
+
+				<div class="form-group" id="comboGrafosAcciones"> <!-- Que va realizar -->
+						<label for="accionARealizarGrafos"> ¿Qué desea realizar? </label>
+						<select id="funcionCodigoBI" name="select" class="anchoInputs" onchange='verOpcionSeleccionado()'>
+						  <option id = "id_na" value="nuevoArchivo">Nuevo Archivo</option> 
+						  <option id = "id_nf" value="nuevaFuncion" selected>Nueva función</option>
+						  <option id = "id_nr" value="nuevaRelacion">Nueva invocación función</option>
+						</select>
+				</div>
+
+				<div class="col pt-2" id = "divNA">
+					<div class="form-group"> <!-- Ingresa archivo -->
+						<label for="nombreArchivoNA"> Ingrese el nombre del archivo </label>
+						<input type="text" class="anchoInputs" id="nombreArchivoNA" placeholder="nombre del archivo">
+					</div>
+					<button class="botones btn-md" id="btnAgregarArchivoGrafo">							
+					<i class="fa fa-plus"></i> Agregar archivo
+					</button>
+				</div>
+				<div class="col pt-2" id = "divNF">
+					
+					<div class="form-group"> <!-- Ingresa funcion -->
+						<label for="nombreFuncionNF"> Ingrese el nombre de la función </label>
+						<input type="text" class="anchoInputs" id="nombreFuncionNF" placeholder="nombre de la funcion">
+					</div>
+					<div class="form-group"> <!-- Ingresa archivo -->
+						<label for="nombreArchivoNF"> Seleccione el archivo </label>
+						<select id="comboArchivosNF" name="select" class="anchoInputs" onchange='archivoSeleccionadoNF()'>
+						</select>	
+					</div>
+					<div class="form-group"> 
+						<label for="lineaNF"> Ingrese la linea donde está definida la función: </label>
+						<input type="number" class="anchoInputs" id="lineaNF" placeholder="linea" value = 0 required>
+					</div>
+					<div class="form-group"> 
+						<label for="coumnaNF"> Ingrese la columna donde está definida la función: </label>
+						<input type="number" class="anchoInputs" id="coumnaNF" placeholder="columna" value = 0 required>
+					</div>
+					
+					<button class="botones btn-md" id="btnAgregarFuncionGrafo">							
+					<i class="fa fa-plus"></i> Agregar función
+					</button>
+				</div>
+				<div class="col pt-2" id = "divNR">
+
+					<div class="form-group"> <!-- Ingresa archivo -->
+						<label for="nombreArchivoI"> Seleccione el archivo que va a invocar</label>
+						<select id="comboArchivosI" name="select" class="anchoInputs" onchange='archivoSeleccionadoI()'>
+						</select>	
+					</div>
+
+					<div class="form-group"> 
+						<label for="lineaI"> Ingrese la linea que va a invocar: </label>
+						<input type="number" class="anchoInputs" id="lineaI" value = 0 placeholder="linea" required>
+					</div>
+					<div class="form-group"> 
+						<label for="coumnaI"> Ingrese la columna que va a invocar: </label>
+						<input type="number" class="anchoInputs" id="coumnaI" value = 0 placeholder="columna" required>
+					</div>
+
+					<div class="form-group"> <!-- Ingresa archivo -->
+						<label for="nombreArchivoNR"> Seleccione el archivo de la función a invocar</label>
+						<select id="comboArchivosNR" name="select" class="anchoInputs" onchange='archivoSeleccionadoNR()'>
+						</select>	
+					</div>
+
+					<div class="form-group" id = "finv"> <!-- Ingresa funcion  -->
+						<label for="comboFuncionNR"> Seleccione la función a invocar </label>
+						<select id="comboFuncionNR" name="select" class="anchoInputs" onchange='funcionSeleccionadoNR()'>
+						</select>	
+					</div>
+
+
+					<button class="botones btn-md" id="btnAgregarRelacionGrafo">							
+					<i class="fa fa-plus"></i> Agregar relación
+					</button>
+				</div>
+
+				<div class="col pt-2" id = "divConsultaInvocaciones">
+			    	<table class="table table-hover" id = "tablaConsInvocaciones1">
+					    <thead>
+					      <tr class="tituloTabla">
+					      	<th class="bordesTabla"></th>
+					        <th class="bordesTabla">Función</th>
+					        <th class="bordesTabla">Archivo</th>
+					        <th class="bordesTabla">Linea</th>
+					        <th class="bordesTabla">Columna</th>
+					      </tr>
+					    </thead>
+					    <tbody>
+					    </tbody>
+					</table>
+
+					
+					<div id = "divInvocacionesCons2">
+						<br><br><br>
+						<p><strong>Inovaciones de la funcion-archivo seleccionados:</strong> </p>
+						<br>
+						<table class="table table-hover" id = "tablaConsInvocacionesTabla2">
+						    <thead>
+						      <tr class="tituloTabla">
+						        <th class="bordesTabla">Archivo</th>
+						        <th class="bordesTabla">Linea</th>
+						        <th class="bordesTabla">Columna</th>
+						      </tr>
+						    </thead>
+						    <tbody>
+						    </tbody>
+						</table>
+					</div>
+						
+				</div>
+
+				<div class="col pt-2" id = "divConsultaIrDefinicion">
+
+					<div id = "divfuncioninvocada" class="col pt-2">
+						
+						
+					</div>
+					<br><br><br>
+					<table class="table table-hover" id = "tablaConsInvocacionesCons2">
+					    <thead>
+					      <tr class="tituloTabla">
+					      	<th class="bordesTabla"></th>
+					        <th class="bordesTabla">Archivo</th>
+					        <th class="bordesTabla">Linea</th>
+					        <th class="bordesTabla">Columna</th>
+					      </tr>
+					    </thead>
+					    <tbody>
+					    </tbody>
+					</table>
+
+				
+				</div>
+			</div>
+
+			</div>
+
+
+
+
+	    </div>
+	  
+	    
+
+		
+
+	
+	<!-- Footer -->
+	<footer class="page-footer font-small blue pt-4">	  
+	  <div class="footer-copyright text-center py-3 general">
+			2020 - Nicolas Blanco - Carmen Barreira
+	  </div>
+	</footer>
+	<!-- Footer -->
+
+</html>

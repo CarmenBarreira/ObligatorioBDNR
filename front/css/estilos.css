@@ -1,0 +1,68 @@
+.general {
+	background-color: #d9f8b4;
+	color: #29542a;
+	padding-top: 5px;
+}
+
+.logoGitHub{
+	height: 60px;
+	padding-top: 6px;
+	padding-left: 6px;
+}
+
+.paginaGeneral{
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.anchoInputs{
+	display: block;
+    width: 50%;
+    height: calc(1.5em + .75rem + 2px);
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: 1px solid #ced4da;
+    border-radius: .25rem;
+    transition: border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+
+}
+
+.tituloTabla{
+	color: #29542a;
+}
+
+.bordesTabla{
+	border-bottom: 2px solid #29542a;
+}
+
+.textoLetraObli{
+	color: #9c9c9c;
+}
+
+.botones{
+    color: #fff;
+    background-color: #49a04b;
+    border-color: #49a04b;
+    border: 1px;
+}
+
+.opcionesMenu{
+	color: #29542a;
+}
+
+.fondoMenu {
+	background-color: #edfed9;
+}
+
+.colorVerde {
+    color: #49a04b;
+}
+
+.verdeClarito{
+    background-color: #d9f8b4;
+}
